@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asser Ismail/h1>
-<h3 align="center">Software engineer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Asser Ismail</h1>
+<h3 align="center">Eager Software engineer from Canada</h3>
 
 - 🔭 I’m currently working on **Healthcare Marketplace** with the use of [Medusa](https://github.com/medusajs)
 - 🔭 I’m currently working on the **UoftSE** home website a part of the organization [UoftSE](https://github.com/UofTSE)
